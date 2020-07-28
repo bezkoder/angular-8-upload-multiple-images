@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular8UploadMultipleImages';
+  title = 'Angular 8 Upload Multiple Images';
 }
